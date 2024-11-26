@@ -1,5 +1,4 @@
-package com.calculator.stringcalculator;
-
+package com.calculator.stringcalculator.service;
 
 
 import java.util.ArrayList;

@@ -1,6 +1,5 @@
 package com.calculator.stringcalculator.controller;
 
-import com.calculator.stringcalculator.StringCalculatorService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
